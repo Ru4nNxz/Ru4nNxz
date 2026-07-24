@@ -1,4 +1,4 @@
-<h1>Hey there! ;) </h1>
+<h1 align="center">Hey there! ;) </h1>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
