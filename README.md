@@ -1,7 +1,7 @@
 <h1>Hey there! 👋</h1>
 
 
-I'm constantly learning, exploring new technologies, and improving my skills one project at a time.
+<p>I'm constantly learning, exploring new technologies, and improving my skills one project at a time.</p>
 
 
 <div style="display: inline_block">
@@ -21,9 +21,9 @@ I'm constantly learning, exploring new technologies, and improving my skills one
 
 <div>
 
-<a href="mailto:ruan.psferreira@aluno.edu.es.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/ruanpablosantosz"><img src="https://img.shields.io/badge/Instagram-e80046?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ruanpablosantosferreiraX@gmail.com"><img src="https://img.shields.io/badge/Gmail-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ruanpablosantosz"><img src="https://img.shields.io/badge/Instagram-ff0059?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-004ec2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://discord.gg/JfSBdxpm"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 </div>
