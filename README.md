@@ -1,8 +1,8 @@
-<h1>Hey there! 👋</h1>
+Hey there! 👋
 
-<p>
+
 I'm constantly learning, exploring new technologies, and improving my skills one project at a time.
-</p>
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ru4nNxz&show_icons=true&theme=tokyonight)
 
