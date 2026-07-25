@@ -1,4 +1,5 @@
-
+Hey there! 👋
+ I'm constantly learning, exploring new technologies, and improving my skills one project at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
