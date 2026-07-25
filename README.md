@@ -4,9 +4,9 @@
 I'm constantly learning, exploring new technologies, and improving my skills one project at a time.
 </p>
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ru4nNxz&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru4nNxz&layout=compact&theme=dark"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ru4nNxz&show_icons=true&theme=dark" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ru4nNxz&layout=compact&theme=dark" height="180em"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
