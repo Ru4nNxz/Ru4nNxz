@@ -15,6 +15,7 @@
   <img align="center" alt="Ru4nNxz-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ru4nNxz-postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Ru4nNxz-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Ru4nNxz-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
