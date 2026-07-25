@@ -19,9 +19,11 @@ I'm constantly learning, exploring new technologies, and improving my skills one
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-<div> 
-  <a href="https://www.instagram.com/ruanpablosantosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23ff0059?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/JfSBdxpm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href ="ruanpablosantosferreiraX@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div>
+
+<a href="mailto:ruan.psferreira@aluno.edu.es.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ruanpablosantosz"><img src="https://img.shields.io/badge/Instagram-e80046?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://discord.gg/JfSBdxpm"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
 </div>
