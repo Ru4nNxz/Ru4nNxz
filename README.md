@@ -2,4 +2,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-<img height=5% src="https://skillicons.dev/icons?i=git,mysql,html,css,js,ts,nodejs,powershell,python,windows,postman" />
+<img src="https://skillicons.dev/icons?i=git,mysql,html,css,js,ts,nodejs,powershell,python,windows,postman&size=40" />
