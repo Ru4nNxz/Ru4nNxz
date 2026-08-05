@@ -1,7 +1,7 @@
 <h1>Hey there! 👋</h1>
 
 
-<p>I'm constantly learning, exploring new technologies, and improving my skills one project at a time.</p>
+<p></p>
 
 
 <div style="display: inline_block">
